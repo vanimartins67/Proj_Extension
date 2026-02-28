@@ -1,0 +1,12 @@
+body{
+    background-color: bisque;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+input{
+    padding: 10px;
+}
